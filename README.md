@@ -47,10 +47,18 @@ Your task is to `classify each cassava image into four disease categories or a f
 
 ![](./docs/sample-images.png)
 
-**Data augmentation (CutMix, MixUp, FMix)**
+### Data augmentation (CutMix, MixUp, FMix)
+
+**CutMix**
 
 ![](./docs/cutmix-sample-images.png)
+
+**MixUp**
+
 ![](./docs/mixup-sample-images.png)
+
+**FMix**
+
 ![](./docs/fmix-sample-images.png)
 
 **Results (for model trained using TPU, with XLA and Mixed Precision)**
